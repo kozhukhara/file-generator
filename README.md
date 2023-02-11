@@ -28,3 +28,7 @@ Created successfully
 - Full path: /absolute/path/to/random.tmp
 - File size: 1024 byte(s)
 ```
+## Build
+```shell
+go build main.go
+```
